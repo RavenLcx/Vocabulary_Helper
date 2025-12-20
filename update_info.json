@@ -1,10 +1,10 @@
 {
-  "latest_version": "3.3.5",
+  "latest_version": "3.2.5",
   "logs": [
     {
       "version": "3.3.0",
       "date": "2025-12-20",
-      "content": "Beta Version\n1. Added online log retrieval function"
+      "content": "Beta Version\n1. Added online log retrieval function."
     },
     {
       "version": "3.2.5",
