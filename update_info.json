@@ -1,15 +1,15 @@
 {
-  "latest_version": "3.3.0",
+  "latest_version": "3.3.1",
   "logs": [
+    {
+      "version": "3.3.1",
+      "date": "2025-12-23",
+      "content": "1. Mica Effect: Added Windows 11 Mica material to all pages.\n2. Custom Title Bar: Implemented an integrated, draggable title bar.\n3. Theme Adaptation: Full synchronization with System Light/Dark modes.\n4. Adaptive Icons: Added theme-aware icons for Taskbar and Start Menu."
+    },
     {
       "version": "3.3.0",
       "date": "2025-12-20",
       "content": "🎄Merry Christmas!\n1. Added online log retrieval function. \n2. Fixed some known issues."
-    },
-    {
-      "version": "3.2.5",
-      "date": "2025-12-10",
-      "content": "1. Fixed database issues.\n2. Fixed some known issues."
     }
   ]
 }
